@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+}
+
+
+h1{
+    color: white;
+}
+h2{
+    text-align: left;
+}
+.score{
+    color: green;
+}
+.speed{
+    color:aqua;
+}
+.misses{
+    color:red;
+}
+
+canvas{
+    border: 2px solid white;
+    position: absolute;
+    width: 600px;
+    height: 800px;
+    left:50%;
+    top: 50%;
+    margin-left: -300px;
+    margin-top: -400px;
+}
